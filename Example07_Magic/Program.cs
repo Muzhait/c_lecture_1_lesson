@@ -1,5 +1,4 @@
-﻿using System.Data;
-Console.Clear();
+﻿Console.Clear();
 
 int xa = 40, ya = 1, 
     xb = 1, yb = 30,
